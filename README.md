@@ -42,13 +42,7 @@ Help procurement managers answer key business questions:
 
 ## 📷 Dashboard Preview
 
-_(Images will appear here once uploaded)_
-
-### Power BI Dashboard  
-![Power BI](powerbi_dashboard.png)
-
-### Excel Dashboard  
-![Excel](excel_dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
@@ -64,4 +58,4 @@ _(Images will appear here once uploaded)_
 Self-taught data analyst passionate about turning messy data into clear, business-ready dashboards.  
 Looking for roles where I can help teams unlock value from data.
 
-👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/loise-mihari)
