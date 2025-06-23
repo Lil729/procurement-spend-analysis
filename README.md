@@ -66,3 +66,4 @@ Self-taught data analyst passionate about turning messy data into clear, busines
 Looking for roles where I can help teams unlock value from data.
 
 👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/loise-mihari)
+
