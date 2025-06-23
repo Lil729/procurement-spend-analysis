@@ -1,69 +1,57 @@
-# Procurement Spend Analysis Dashboard
+# Procurement Spend Dashboard
 
-This project showcases an end-to-end spend analysis built in both **Excel** and **Power BI**, designed for real-world procurement decision-making.
+📊 This project simulates a real-world data analyst task: analyzing procurement spend to improve supplier performance, cut costs, and support business decisions. Built using Excel and Power BI.
 
 ---
 
-## 🎯 Project Objective
+### 🎯 Project Objective
 
-Help procurement managers answer key business questions:
-
+Help procurement teams make better decisions by answering:
 - Where is most of the money going?
 - Who are our top suppliers?
-- What seasonal or regional spend patterns exist?
-- Are there cost-saving opportunities?
+- When is spending highest?
+- Which categories and regions cost the most?
 
 ---
 
-## 📊 Dataset
+### 📂 About the Data
 
-- **Years Covered**: 2014–2017  
-- **Regions**: 5  
-- **Categories**: 8  
-- **Suppliers**: 100+
+This dataset is adapted from the Superstore dataset (10,000+ rows), originally used for sales analysis. I repurposed it to simulate procurement spend by renaming key fields (e.g., “Customer Name” → “Supplier Name”, “Sales” → “Spend”).
 
----
-
-## 🛠️ Tools Used
-
-- Microsoft Excel (Pivot tables, slicers, conditional formatting)
-- Power BI (Custom visuals, slicers, Power Query, basic DAX)
+Timeframe covered: **2014–2017**
 
 ---
 
-## 🔍 Key Insights
+### 🛠️ Tools Used
 
-- Top 5 suppliers account for over 65% of total spend
-- Q4 shows consistent spend spikes — budget planning opportunity
-- Technology is the highest-spend category
-- West region has the most volatile monthly spend
+- Microsoft Excel (Pivot Tables, Slicers, Conditional Formatting)
+- Power BI (Power Query, Slicers, Visuals, Basic DAX)
 
 ---
 
-## 📷 Dashboard Previews
+### 🔍 Key Insights
 
-### 🔸 Excel Dashboard  
-![Excel Dashboard](https://github.com/Lil729/procurement-spend-analysis/blob/main/Excel%20Dashboard%20Preview.png)
-
-### 🔸 Power BI Dashboard  
-![Power BI Dashboard](https://github.com/Lil729/procurement-spend-analysis/blob/main/Power%20BI%20DashBoard%20Preview.png)
-
----
-
-## 📥 How to Use
-
-- 📊 [Download Excel Dashboard (.xlsx)](https://github.com/Lil729/procurement-spend-analysis/blob/main/Procurement%20Spend%20Dashboard%20Project.xlsx)
-- 📈 [Download Power BI Dashboard (.pbix)](https://github.com/Lil729/procurement-spend-analysis/blob/main/Procurement%20Spend%20Dashboard.pbix)
-
-> ✅ Open `.xlsx` with Microsoft Excel  
-> ✅ Open `.pbix` with Power BI Desktop (free from Microsoft)
+- ✅ Top 5 suppliers account for over 65% of spend — concentration risk
+- ✅ Spend spikes in Q4 — likely due to end-year procurement
+- ✅ Technology leads all categories in cost
+- ✅ West region shows the highest monthly variance in spend
 
 ---
 
-## 💬 About Me
+### 📁 Deliverables
 
-Self-taught data analyst passionate about turning messy data into clear, business-ready dashboards.  
-Looking for roles where I can help teams unlock value from data.
+- 📊 [Excel Dashboard (.xlsx)](https://github.com/Lil729/procurement-spend-analysis/blob/main/Procurement%20Spend%20Dashboard%20Project.xlsx)
+- 📈 [Power BI Dashboard (.pbix)](https://github.com/Lil729/procurement-spend-analysis/blob/main/Procurement%20Spend%20Dashboard.pbix)
+- 📸 Excel Preview  
+  ![Excel Dashboard](https://github.com/Lil729/procurement-spend-analysis/blob/main/Excel%20Dashboard%20Preview.png)
+- 📸 Power BI Preview  
+  ![Power BI Dashboard](https://github.com/Lil729/procurement-spend-analysis/blob/main/Power%20BI%20DashBoard%20Preview.png)
+
+---
+
+### 💬 About Me
+
+I'm a self-taught data analyst focused on business-driven dashboards that provide real insights — not just visuals. Open to full-time, freelance, or internship roles in data analytics.
 
 👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/loise-mihari)
 
