@@ -40,22 +40,23 @@ Help procurement managers answer key business questions:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Previews
 
-### Dashboard Preview  
-[![Dashboard Preview](dashboard.png)](./Procurement%20Dashboard.pbix)
+### 🔸 Excel Dashboard  
+![Excel Dashboard](https://github.com/Lil729/procurement-spend-analysis/blob/main/Excel%20Dashboard%20Preview.png)
 
-
-
+### 🔸 Power BI Dashboard  
+![Power BI Dashboard](https://github.com/Lil729/procurement-spend-analysis/blob/main/Power%20BI%20DashBoard%20Preview.png)
 
 ---
 
 ## 📥 How to Use
 
-## 📥 How to Use
+- 📊 [Download Excel Dashboard (.xlsx)](https://github.com/Lil729/procurement-spend-analysis/blob/main/Procurement%20Spend%20Dashboard%20Project.xlsx)
+- 📈 [Download Power BI Dashboard (.pbix)](https://github.com/Lil729/procurement-spend-analysis/blob/main/Procurement%20Spend%20Dashboard.pbix)
 
-- 📂 [Download Excel File](./Procurement%20Dashboard.xlsx)
-- 📂 [Download Power BI File](./Procurement%20Dashboard.pbix)
+> ✅ Open `.xlsx` with Microsoft Excel  
+> ✅ Open `.pbix` with Power BI Desktop (free from Microsoft)
 
 ---
 
