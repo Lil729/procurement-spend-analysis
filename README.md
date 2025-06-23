@@ -42,14 +42,20 @@ Help procurement managers answer key business questions:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+### Dashboard Preview  
+[![Dashboard Preview](dashboard.png)](./Procurement%20Dashboard.pbix)
+
+
+
 
 ---
 
 ## 📥 How to Use
 
-- Download `ProcurementDashboard_Excel.xlsx` → open in Excel
-- Download `ProcurementDashboard_PowerBI.pbix` → open in Power BI Desktop (free)
+## 📥 How to Use
+
+- 📂 [Download Excel File](./Procurement%20Dashboard.xlsx)
+- 📂 [Download Power BI File](./Procurement%20Dashboard.pbix)
 
 ---
 
