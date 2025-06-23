@@ -1,32 +1,24 @@
-# Procurement Spend Dashboard
+#
+# 🧾 Procurement Spend Analysis Dashboard
 
-📊 This project simulates a real-world data analyst task: analyzing procurement spend to improve supplier performance, cut costs, and support business decisions. Built using Excel and Power BI.
+This project analyzes procurement spend data to help organizations understand vendor performance, track monthly expenditures, and identify areas for cost optimization.
 
----
 
-### 🎯 Project Objective
+## 📌 Business Problem
 
-Help procurement teams make better decisions by answering:
-- Where is most of the money going?
-- Who are our top suppliers?
-- When is spending highest?
-- Which categories and regions cost the most?
+Companies often struggle with tracking procurement spend across multiple vendors and categories. This project simulates how a procurement department can visualize and interpret spend data to make data-driven decisions.
 
----
 
-### 📂 About the Data
+## 🛠️ Tools Used
+- **Excel** – for initial data cleaning and preparation
+- **Power BI** – for dashboard creation and data visualization
 
-This dataset is adapted from the Superstore dataset (10,000+ rows), originally used for sales analysis. I repurposed it to simulate procurement spend by renaming key fields (e.g., “Customer Name” → “Supplier Name”, “Sales” → “Spend”).
-
-Timeframe covered: **2014–2017**
-
----
-
-### 🛠️ Tools Used
-
-- Microsoft Excel (Pivot Tables, Slicers, Conditional Formatting)
-- Power BI (Power Query, Slicers, Visuals, Basic DAX)
-
+## 🔍 Key Features
+- Dynamic filters by year, supplier, and item type
+- Vendor comparison visuals (bar/column charts)
+- Monthly spend trends
+- KPI cards: Total Spend, Number of Transactions, Top Supplier
+  
 ---
 
 ### 🔍 Key Insights
